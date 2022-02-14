@@ -1,0 +1,5 @@
+instructions.txt
+venv/
+coursework_02/Fish_Dataset
+*.pdf
+__pycache__/
