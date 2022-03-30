@@ -1,4 +1,4 @@
 # Computer Vision coursework
 
-1. **Coursework 1**: Image filtering
-2. **Coursework 2**: Multi-class image classification
+- **Coursework 1**: Image filtering (Grade: 95%)
+- **Coursework 2**: Multi-class image classification (Grade: 99%)
